@@ -1,2 +1,2 @@
 # medinamaids-apex
-Serves the bare domain medinamaids.com via GitHub Pages as an HTTPS redirect to https://www.medinamaids.com (site hosted on Cloudflare Pages). Wix locks nameservers, so the apex cannot be put on Cloudflare; GitHub Pages issues the apex TLS cert instead.
+Static export of mezzohz/medina-website served at the bare domain medinamaids.com via GitHub Pages (Google's canonical/ranked URL). www.medinamaids.com (Cloudflare Pages) 301s here. Rebuilt from medina-website origin/main 8ed1d64.
